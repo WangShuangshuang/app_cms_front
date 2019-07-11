@@ -1,0 +1,1 @@
+export const FETCH_PRE = 'http://localhost:3000'
